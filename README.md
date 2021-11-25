@@ -1,3 +1,3 @@
-<div style="display:grid;place-items:center;">
-<img style="height:75vh;" src="https://github.com/saurabhmehta1601/saurabhmehta1601/blob/main/images/header.svg?raw=true" />
-</div>
+<p align="center" width="100%">
+<img style="height:30rem;text-align:center;" src="https://github.com/saurabhmehta1601/saurabhmehta1601/blob/main/images/header.svg?raw=true" />
+</p>
