@@ -1,1 +1,3 @@
-<img  style="height:60vh;text-align:center;" src="https://github.com/saurabhmehta1601/saurabhmehta1601/blob/main/images/header.svg?raw=true" />
+<center>
+<img src="https://github.com/saurabhmehta1601/saurabhmehta1601/blob/main/images/header.svg?raw=true" />
+</center>
