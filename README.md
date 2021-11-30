@@ -26,7 +26,8 @@ const saurabh= {
   ],
   whatAmILearningNow: [
       "unit testing for node and javascript applications",
-      "functional programming"
+      "functional programming and its concepts",
+      "data structures and algorithms"
       ],
 
 }
