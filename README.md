@@ -25,9 +25,8 @@ const saurabh= {
       "I love JAMStack architecture for web "
   ],
   whatAmILearningNow: [
-      "unit testing for node and javascript applications",
-      "functional programming and its concepts",
-      "data structures and algorithms"
+      "data structures and algorithms",
+      "creative coding"
       ],
 
 }
