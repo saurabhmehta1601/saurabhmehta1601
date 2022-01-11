@@ -25,8 +25,9 @@ const saurabh= {
       "I love JAMStack architecture for web "
   ],
   whatAmILearningNow: [
-      "data structures and algorithms",
-      "creative coding"
+      "compiler design",
+      "machine learning",
+      "bash scripting"
       ],
 
 }
