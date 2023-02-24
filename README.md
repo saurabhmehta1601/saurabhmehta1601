@@ -15,24 +15,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhmehta1601&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-```javascript
-const saurabh= {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS , C++,Python],
-  tools: [React, Nextjs, Redux, Node,  Styled-Components, Jest ],
-  intrests: [
-      "I am fond of web development especially frontend development",
-      "I love JAMStack architecture for web "
-  ],
-  whatAmILearningNow: [
-      "compiler design",
-      "machine learning",
-      "bash scripting"
-      ],
-
-}
-```
-
 </div>
 </div> 
 
