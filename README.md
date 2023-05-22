@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhmehta1601?tab=repositories](https://github.com/saurabhmehta1601?tab=repositories)
 
-- 💬 Ask me about **Frontend Development .**
+- 💬 Ask me about **Full Stack Development.**
 
 - 💼 Hire me at Upwork https://www.upwork.com/freelancers/~01664d136315ccbfd4
 
