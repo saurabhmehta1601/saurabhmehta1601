@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working as a full stack developer at **MelioLabs Inc(Santa Clara, CA, USA)**.
 
-- 🌱 I’m currently also learning **Data Science and Python Frameworks**
+- 🌱 I’m currently also learning about **Data Science and Python Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhmehta1601?tab=repositories](https://github.com/saurabhmehta1601?tab=repositories)
 
 - 💬 Ask me about **Full Stack Development.**
-
-- 💼 Hire me at Upwork https://www.upwork.com/freelancers/~01664d136315ccbfd4
 
 - 📫 Connect with Linkedin **https://www.linkedin.com/in/saurabhmehta1601/**
 
