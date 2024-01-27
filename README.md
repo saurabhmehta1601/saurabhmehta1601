@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmehta1601" alt="saurabhmehta1601" /></a> </p>
 
-- 🔭 I’m currently working as a full stack developer at **MelioLabs Inc**, a company based in California, USA.
+- 🔭 I’m currently working as a full stack developer at **MelioLabs Inc(Santa Clara, CA, USA)**.
 
 - 🌱 I’m currently also learning **Data Science and Python Frameworks**
 
