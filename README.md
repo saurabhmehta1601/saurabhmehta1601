@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working as a full stack developer at **MelioLabs Inc(Santa Clara, CA, USA)**.
 
-- 🌱 Also I am learning about **Generative AI** and building software solutions on **AWS Cloud** .
-
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhmehta1601?tab=repositories](https://github.com/saurabhmehta1601?tab=repositories)
 
-- 💬 Ask me about **Full Stack Development.**
+- 💬 Ask me about **Full Stack Development.** 
 
 - 📫 Connect with Linkedin **https://www.linkedin.com/in/saurabhmehta1601/**
+
+- Checkout my Portfolio at ** https://saurabhmehta.vercel.app** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
