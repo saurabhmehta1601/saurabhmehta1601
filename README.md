@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mehta</h1>
 <h3 align="center">And I love crafting softwares and solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhmehta1601" alt="saurabhmehta1601" /></a> </p>
-
 - 🔭 I’m currently working as a full stack developer at **MelioLabs Inc(Santa Clara, CA, USA)**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/saurabhmehta1601?tab=repositories](https://github.com/saurabhmehta1601?tab=repositories)
+- 🌐 All of my projects are available at [https://github.com/saurabhmehta1601?tab=repositories](https://github.com/saurabhmehta1601?tab=repositories)
 
 - 💬 Ask me about **Full Stack Development.** 
 
 - 📫 Connect with Linkedin **https://www.linkedin.com/in/saurabhmehta1601/**
 
-- Checkout my Portfolio at ** https://saurabhmehta.vercel.app** 
+- 👨‍💻 Checkout my Portfolio at ** https://saurabhmehta.vercel.app** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
