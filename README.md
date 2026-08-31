@@ -11,13 +11,6 @@
 
 - 👨‍💻 Checkout my Portfolio at ** https://saurabhmehta.vercel.app** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saurabh__mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh__mehta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabhmehta1601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhmehta1601" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurabhmehtaleetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhmehtaleetcode" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
