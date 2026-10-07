@@ -9,7 +9,7 @@
 
 - 📫 Connect with Linkedin **https://www.linkedin.com/in/saurabhmehta1601/**
 
-- 👨‍💻 Checkout my Portfolio at ** https://saurabhmehta.tech** 
+- 👨‍💻 Checkout my Portfolio at **https://saurabhmehta.tech** 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
